@@ -38,10 +38,10 @@ const CONFIG = {
   wedding: {
     date: "2026-10-31",
     time: "16:30",
-    venue: "노블레스 웨딩 컨벤션 수원",
-    hall: "5층 노블레스 홀",
-    address: "경기도 수원시 팔달구 팔달문로 128",
-    tel: "031.215.7000"
+    venue: "마이어스 수원",
+    hall: "그레이스 홀",
+    address: "경기 수원시 권선구 경수대로 270",
+    tel: "0507-1402-5500"
   },
 
   // ── 인사말 ──
@@ -72,8 +72,8 @@ const CONFIG = {
 
   // ── 오시는 길 ──
   mapLinks: {
-    kakao: "https://place.map.kakao.com/9846217",
-    naver: "https://naver.me/57VZk9UM"
+    kakao: "https://kko.to/AUtMrc6zqm",
+    naver: "https://naver.me/FethWOrt"
   },
 
   // ── 마음 전하실 곳 ──
